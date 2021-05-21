@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kimsunghyunny
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java & Algorithm & Coding Test
+- 🌱 I’m currently learning Java & Algorithm
 
 <!---
 Kimsunghyunny/Kimsunghyunny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
